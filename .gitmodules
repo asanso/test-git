@@ -2,3 +2,6 @@
 	path = evil
 	url = https://github.com/asanso/innocent-git
 	update = checkout
+[submodule "another-module"]
+	path = another-module
+	url = https://github.com/asanso/innocent-git
