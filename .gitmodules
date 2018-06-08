@@ -1,4 +1,4 @@
-[submodule "..\%2F../modules/evil"]
+[submodule ".. / ../modules/evil"]
 	path = evil
 	url = https://github.com/asanso/innocent-git
 	update = checkout
