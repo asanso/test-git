@@ -9,6 +9,6 @@
 <Require feature="opensocial-0.9" />
 </ModulePrefs>
 <Content type="html">
- Hello &a2;
+ Helloo &a2;
 </Content>
 </Module>
