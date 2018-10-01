@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data [
+<!ENTITY a0 "aos" >
+<!ENTITY a1 "&a0;&a0;&a0;&a0;&a0;">
+<!ENTITY a2 "&a1;&a1;&a1;&a1;&a1;">
+]>
+<Module>
+<ModulePrefs title="Test Application">
+<Require feature="opensocial-0.9" />
+</ModulePrefs>
+<Content type="html">
+ Hello &a2;
+</Content>
+</Module>
